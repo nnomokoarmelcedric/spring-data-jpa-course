@@ -19,6 +19,9 @@ In this course you learn everything there is to learn about Spring Data JPA allo
 
 ## Check out branches
 
+
+-ok every thing is alright
+
 - `git checkout main` - the main branch is starting point
 - `git checkout section-1`
 - `git checkout section-2`
